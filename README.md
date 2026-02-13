@@ -85,4 +85,4 @@ Disciplina: Algorithmic Thinking & Introduction to Object-Oriented Programming
 
 ## 👨‍💻 Autor
 
-Coloque seu nome aqui
+Felipe Peixinho Dos Santos
